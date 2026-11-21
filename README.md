@@ -1,4 +1,5 @@
 # FantasyPress6
+![Preview](screenshot.png)
 
 A retro RPG-inspired child theme for the WordPress theme **GeneratePress**.
 Designed for gamers, streamers, VTubers, and geeks who love the nostalgic charm of **classic 8-bit and 16-bit RPG menu screens**.
